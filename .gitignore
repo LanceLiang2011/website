@@ -85,3 +85,6 @@ dmypy.json
 .idea/
 *.sublime-workspace
 *.sublime-project
+
+.env
+.env*
